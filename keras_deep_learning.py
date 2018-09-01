@@ -1,3 +1,7 @@
+# source: "Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python"
+#		   https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+
+
 # 3. Import libraries and modules
 import numpy as np
 np.random.seed(123)  # for reproducibility
