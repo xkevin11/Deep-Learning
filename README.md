@@ -1,6 +1,7 @@
 # Deep-Learning
 
 
+## Useful Resources
 
 Keras Tutorial : The Ultimate Beginner’s Guide to Deep Learning in Python
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
@@ -22,3 +23,12 @@ https://elitedatascience.com/python-deep-learning-libraries#keras
 
 KDnuggest - 7 Steps to Mastering Deep Learning with Keras
 https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html
+
+
+## GPU
+[2018-09-02]
+So I managed to get a CNN model working on my MacBook Pro (see keras_deep_learning.py) to learn MNIST dataset. The forecast accuracy on test set was over 99%!! However, using CPU it took > 40 min to train, which is too slow. TensorFlow no longer provides GPU support on macOS either as of version 1.2.
+
+Question - which of the below?
+1) e-GPU
+2) AWS EC2 (https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
