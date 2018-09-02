@@ -35,7 +35,8 @@ Question - which of the below?
 
 
 
-[### e-GPU](https://apple.stackexchange.com/questions/277356/machine-learning-on-external-gpu-with-cuda-and-late-mbp-2016)
+### e-GPU
+[StackOverflow](https://apple.stackexchange.com/questions/277356/machine-learning-on-external-gpu-with-cuda-and-late-mbp-2016)
 
 [Kaggle thread](https://www.kaggle.com/questions-and-answers/32619)
 
