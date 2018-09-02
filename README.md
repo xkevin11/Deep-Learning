@@ -32,3 +32,22 @@ So I managed to get a CNN model working on my MacBook Pro (see keras_deep_learni
 Question - which of the below?
 1) e-GPU
 2) AWS EC2 (https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
+
+
+
+[### e-GPU](https://apple.stackexchange.com/questions/277356/machine-learning-on-external-gpu-with-cuda-and-late-mbp-2016)
+
+[Kaggle thread](https://www.kaggle.com/questions-and-answers/32619)
+
+[NVIDIA Titan Xp](https://becominghuman.ai/deep-learning-gaming-build-with-nvidia-titan-xp-and-macbook-pro-with-thunderbolt2-5ceee7167f8b)
+
+[Picking a GPU for Deep Learning](https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9)
+
+[Siraj](https://www.youtube.com/watch?v=Bgwujw-yom8)
+
+<ul>
+	<li>High budget: Titan XP</li>
+	<li>Moderate Budget: GTX 1060</li>
+	<li>TIght Budget: GTX 1050 TI</li>
+</ul>
+
