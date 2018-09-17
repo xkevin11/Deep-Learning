@@ -31,7 +31,11 @@ So I managed to get a CNN model working on my MacBook Pro (see keras_deep_learni
 
 Question - which of the below?
 1) e-GPU
-2) AWS EC2 (https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
+2) [AWS EC2](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
+3) [Google Colaboratory](https://colab.research.google.com/drive/16zuAQZHrThsi9ztnFYJVg7BC28v11D_I): training completes in 212 seconds!! Improvement by X11.3
+
+[Tensorflow : GPU vs CPU](https://www.youtube.com/watch?v=BspsNJHO2Uw)
+CPU - 176 s, GPU (GTX1080) - 8 s
 
 
 
